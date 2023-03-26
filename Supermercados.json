@@ -1,0 +1,130 @@
+{
+	"Supermercados":[
+		{
+			"NombreMercado":"Lidl",
+			"Dirección":"Av de la constitución",
+			"Geolocalizacion": "https://goo.gl/maps/6m1uFMsc51DbK2Ft5",
+			"Ofertas":[
+				{
+					"NombreOferta": "2x1",
+					"TipoOferta":"Temporada",
+					"TipoProducto":"Limpieza",
+					"InicioVigencia":"12/12/24",
+					"FinVigencia":"12/12/25"
+				},
+				{
+					"NombreOferta": "50%",
+					"TipoOferta":"Liquidacion",
+					"TipoProducto":"Hogar",
+					"InicioVigencia":"12/12/24",
+					"FinVigencia":"12/12/25"
+				}
+			],
+			"Producto":[
+				{
+					"NombreProducto":"Ariel",
+					"TipoProducto":"Limpieza",
+					"Precio":"2",
+					"Unidades":"3",
+					"Adquirido":"Si"
+				},
+					{
+					"NombreProducto":"Mimosin",
+					"TipoProducto":"Limpieza",
+					"Precio":"2",
+					"Unidades":"3",
+					"Adquirido":"Si"
+				},
+					{
+					"NombreProducto":"Dixan",
+					"TipoProducto":"Limpieza",
+					"Precio":"4",
+					"Unidades":"6",
+					"Adquirido":"No"
+				}
+			]
+		},
+		{
+			"NombreMercado":"Mercadona",
+			"Dirección":"Av Ibisco",
+			"Geolocalizacion": "https://goo.gl/maps/BvnEyteugSpWuxmU8",
+			"Ofertas":[
+				{
+					"NombreOferta": "5x1",
+					"TipoOferta":"CierreNegocio",
+					"TipoProducto":"Arroz",
+					"InicioVigencia":"12/12/24",
+					"FinVigencia":"12/12/25"
+				}
+			],
+			"Producto":[
+				{
+					"NombreProducto":"Ariel",
+					"TipoProducto":"Limpieza",
+					"Precio":"3",
+					"Unidades":"1",
+					"Adquirido":"Si"
+				},
+					{
+					"NombreProducto":"Mimosin",
+					"TipoProducto":"Limpieza",
+					"Precio":"2",
+					"Unidades":"30",
+					"Adquirido":"Si"
+				},
+					{
+					"NombreProducto":"Dixan",
+					"TipoProducto":"Limpieza",
+					"Precio":"1",
+					"Unidades":"60",
+					"Adquirido":"Si"
+				}
+			]
+		},
+		{
+			"NombreMercado":"Carrefour",
+			"Dirección":"calle pozo nieve",
+			"Geolocalizacion": "https://goo.gl/maps/yVHTEHruw1njJA9H8",
+			"Ofertas":[
+				{
+					"NombreOferta": "A un euro",
+					"TipoOferta":"Liquidacion",
+					"TipoProducto":"Cocina",
+					"InicioVigencia":"12/12/24",
+					"FinVigencia":"12/12/25"
+				},
+				{
+					"NombreOferta": "50%",
+					"TipoOferta":"Liquidacion",
+					"TipoProducto":"Ferreteria",
+					"InicioVigencia":"12/12/24",
+					"FinVigencia":"12/12/25"
+				}
+			],
+			"Producto":[
+				{
+					"NombreProducto":"Sandía",
+					"TipoProducto":"Alimentación",
+					"Precio":"20",
+					"Unidades":"1",
+					"Adquirido":"Si"
+				},
+					{
+					"NombreProducto":"Melon",
+					"TipoProducto":"Alimentación",
+					"Precio":"200",
+					"Unidades":"3",
+					"Adquirido":"No"
+				},
+					{
+					"NombreProducto":"Papaya",
+					"TipoProducto":"Alimentación",
+					"Precio":"400",
+					"Unidades":"6",
+					"Adquirido":"No"
+				}
+			]
+		}
+
+	]
+}
